@@ -47,9 +47,11 @@
 ## 📰 My Projects: 
 
 <a href="https://github.com/dduwiesjyngl7765/dduwiesjyngl7765">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dduwiesjyngl7765&repo=dduwiesjyngl7765&theme=dark"/>
+</a>   
+<a href="https://github.com/dduwiesjyngl7765/thelanguageoftheuniverse">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dduwiesjyngl7765&repo=thelanguageoftheuniverse&theme=dark"/>
 </a>   
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
