@@ -1,8 +1,175 @@
-- 👋 Hi, I’m dduwies jyngl
-- 👀 I’m interested in creating games
-- 🌱 I’m currently learning back-end with Java
 
-<!---
-dduwiesjyngl7765/dduwiesjyngl7765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm dduwiesjyngl7765</h1></summary>
+  </ul>
+</div>
+
+
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<!--- snake -->
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
+## 🌐 Socials network:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/x2cydgPard) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RiceField1211/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baocong1211/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@deemon1211) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ytbpanda6466)  
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/YtbPanda1211/)
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YtbPanda1211&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YtbPanda1211&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YtbPanda1211&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 📌 Activities:
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+## 📰 My Projects: 
+
+<a href="https://github.com/YtbPanda1211/webdoan/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=webdoan&theme=dark"/>
+</a>   
+<a href="https://github.com/YtbPanda1211/TC19THUD1/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TC19THUD1&theme=radical"/>
+</a> 
+<a href="https://github.com/YtbPanda1211/AndroidStudio/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=AndroidStudio&theme=merko"/>
+</a> 
+<a href="https://github.com/YtbPanda1211/SQL_Class/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=SQL_Class&theme=gruvbox"/>
+</a> 
+<a href="https://github.com/YtbPanda1211/CodepenClone/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CodepenClone&theme=tokyonight"/>
+</a> 
+<a href="https://github.com/YtbPanda1211/TinhThoiGian/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TinhThoiGian&theme=onedark"/>
+</a> 
+<a href="https://github.com/YtbPanda1211/TextToVoice/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TextToVoice&theme=cobalt"/>
+</a> 
+<a href="https://github.com/YtbPanda1211/Language-Translation/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Language-Translation&theme=synthwave"/>
+</a> 
+<a href="https://github.com/YtbPanda1211/Bio-Card-1/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-1&theme=highcontrast"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Q-A-3D/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A-3D&theme=dracula"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Clock-3D/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Clock-3D&theme=dark"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Bio-Card-3/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-3&theme=radical"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Q-A/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A&theme=merko"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Black-Jack/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Black-Jack&theme=gruvbox"/>
+</a>
+<a href="https://github.com/YtbPanda1211/HangMan-Game/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HangMan-Game&theme=tokyonight"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Chess-Game/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Chess-Game&theme=onedark"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Chess-PvP/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Chess-PvP&theme=cobalt"/>
+</a>
+<a href="https://github.com/YtbPanda1211/VideoToText/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=VideoToText&theme=synthwave"/>
+</a>
+<a href="https://github.com/YtbPanda1211/FileBot/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=FileBot&theme=highcontrast"/>
+</a>
+<a href="https://github.com/YtbPanda1211/CD22LT-THUD/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CD22LT-THUD&theme=dracula"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Share-Web-Demo/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Share-Web-Demo&theme=dark"/>
+</a>
+<a href="https://github.com/YtbPanda1211/Share-Web-Demo/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Share-Web-Demo&theme=radical"/>
+</a>
+<a href="https://github.com/YtbPanda1211/ClimaCode/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=ClimaCode&theme=merko"/>
+</a>
+<a href="https://github.com/YtbPanda1211/thutinh/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=thutinh&theme=gruvbox"/>
+</a>
+<a href="https://github.com/YtbPanda1211/HopeSheet/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HopeSheet&theme=tokyonight"/>
+</a>
+<a href="https://github.com/YtbPanda1211/PhotoBooth2/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=PhotoBooth2&theme=onedark"/>
+</a>
+<a href="https://github.com/YtbPanda1211/YtbPanda1211/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=YtbPanda1211&theme=cobalt"/>
+</a>
+<a href="https://github.com/YtbPanda1211/RandomTarot/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=RandomTarot&theme=synthwave"/>
+</a>
+<a href="https://github.com/YtbPanda1211/voice-activated-audio-recorder/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=voice-activated-audio-recorder&theme=highcontrast"/>
+</a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
+
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+Credits: [YtbPanda1211](https://github.com/YtbPanda1211)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
